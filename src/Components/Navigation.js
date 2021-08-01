@@ -8,8 +8,8 @@ const Navigation = () => {
 
                 <div className="idContent">
 
-                    <img src="./media/A_2.jpg"  height="150px" width="150px" alt="profil-pic" />
-                    <h3>James Warren JOHNSON</h3>
+                    <img src="./media/jj.jpg"  height="150px" width="150px" alt="profil-pic" />
+                    <h3>James JOHNSON</h3>
 
                 </div>
 
@@ -105,7 +105,7 @@ const Navigation = () => {
             </div>
 
             <div className="signature">
-                <p>James Warren JOHNSON © 2021</p>
+                <p>James © 2021</p>
             </div>
 
         </div>

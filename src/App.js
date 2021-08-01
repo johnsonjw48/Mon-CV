@@ -5,7 +5,7 @@ import Acceuil from './pages/Acceuil';
 import Compétences from './pages/Compétences';
 import Portfolio from './pages/Portfolio';
 import Contact from './pages/Contact';
-import inexistant from './pages/inexistant';
+import inexistant from './pages/Inexistant';
 import reactDom from 'react-dom';
 
 const App = () => {
